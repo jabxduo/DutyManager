@@ -51,16 +51,31 @@
   <ItemGroup>
     <Compile Include="Duty.cs" />
     <Compile Include="DutyParser.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\LodgerForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\LodgerForm.Designer.cs">
+      <DependentUpon>LodgerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LodgerListView.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="LodgerParser.cs" />
     <Compile Include="Lodger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LodgerForm.resx">
+      <DependentUpon>LodgerForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

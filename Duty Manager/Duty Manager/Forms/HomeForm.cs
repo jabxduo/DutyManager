@@ -9,11 +9,17 @@ using System.Windows.Forms;
 
 namespace Duty_Manager
 {
-    public partial class Form1 : Form
+    public partial class HomeForm : Form
     {
-        public Form1()
+        public HomeForm()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LodgerForm frm = new LodgerForm();
+            frm.Show();
         }
     }
 }

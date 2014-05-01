@@ -13,3 +13,5 @@ C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\D
 C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.dll
 C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty_Manager.HomeForm.resources
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty_Manager.LodgerForm.resources

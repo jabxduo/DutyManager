@@ -15,21 +15,7 @@ namespace Duty_Manager
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            List<Lodger> lodgers;
-            lodgers = LodgerParser.LoadLodgers();
-            foreach (Lodger lodger in lodgers)
-            {
-                Console.WriteLine(lodger.Name + ": " + lodger.IsKitchen + ": " + lodger.FloorNumber);
-            }
-            List<Duty> duties;
-            duties = DutyParser.LoadDuties();
-            foreach (Duty d in duties)
-            {
-                Console.WriteLine(d.DutyId + ": " + d.FloorNumber + ": " + d.Description);
-            }
-
-            Application.Run(new Form1());
+            Application.Run(new HomeForm());
         }
     }
 }
