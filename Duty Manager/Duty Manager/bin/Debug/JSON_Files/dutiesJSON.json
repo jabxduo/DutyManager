@@ -1,0 +1,188 @@
+[
+	{	"description": "Sinks & Counters", 
+		"floorNumber": 2, 
+		"dutyID": 1, 
+		"lodgersRequired": 1, 
+		"isKitchen": 0 },
+		
+	{	"description": "Sweep & Mop",
+		"floorNumber": 2,
+		"dutyID": 2,
+		"lodgersRequired": 1,
+		"isKitchen": 0},
+		
+	{	"description": "Garbage, Mirrors, Toilet Paper, Paper towels 
+			(put supplies in the bathroom and take out trash as needed all week):",
+		"floorNumber": 2,
+		"dutyID": 3,
+		"lodgersRequired": 1, 
+		"isKitchen": 0 },
+		
+	{	"description": "Toilets and Urinals",
+		"floorNumber": 2,
+		"dutyID": 4,
+		"lodgersRequired": 1,
+		"isKitchen": 0 },
+		
+	{	"description": "Hallway & fountains",
+		"floorNumber": 2,
+		"dutyID": 5,
+		"lodgersRequired": 1, 
+		"isKitchen": 0 },
+		
+	{	"description": "Shower",
+		"floorNumber": 2,
+		"dutyID": 6,
+		"lodgersRequired": 1, 
+		"isKitchen": 0 
+	},	
+	{	
+		"description": "Recyclables",
+		"floorNumber": 2,
+		"dutyID": 7,
+		"lodgersRequired": 2, 
+		"isKitchen": 0 
+	},
+	{	
+		"description": "Sinks & Counters",
+		"floorNumber": 3,
+		"dutyID": 8,
+		"lodgersRequired": 1, 
+		"isKitchen": 0
+	},
+	
+	{
+		"description": "Sweep & Mop",
+		"floorNumber": 3,
+		"dutyID": 9,
+		"lodgersRequired": 1, 
+		"isKitchen": 0
+	},
+	{	
+		"description": "Garbage, Mirrors, Toilet Paper, Paper towels 
+			(put supplies in the bathroom and take out trash as needed all week):",
+		"floorNumber": 3,
+		"dutyID": 10,
+		"lodgersRequired": 1, 
+		"isKitchen": 0
+	},
+	{	
+		"description": "Toilets and Urinals",
+		"floorNumber": 3,
+		"dutyID": 11,
+		"lodgersRequired": 1,
+		"isKitchen": 0	
+	},
+	{	
+		"description": "Hallway & fountains",
+		"floorNumber": 3,
+		"dutyID": 12,
+		"lodgersRequired": 1,
+		"isKitchen": 0
+	},
+	{	
+		"description": "Shower",
+		"floorNumber": 3,
+		"dutyID": 13,
+		"lodgersRequired": 1,
+		"isKitchen": 0
+	},
+	{	
+		"description": "Recyclables",
+		"floorNumber": 3,
+		"dutyID": 14,
+		"lodgersRequired": 2,
+		"isKitchen": 0
+	},
+	{	
+		"description": "Vacuum front room",
+		"floorNumber": 0,
+		"dutyID": 15,
+		"lodgersRequired": 1,
+		"isKitchen": 0
+	},
+	{	
+		"description": "Clean tables and throw out trash in front room",
+		"floorNumber": 0,
+		"dutyID": 16,
+		"lodgersRequired": 1,
+		"isKitchen": 0
+	},
+	{	
+		"description": "Sweep dining room",
+		"floorNumber": 0,
+		"dutyID": 17,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "Mop dining room",
+		"floorNumber": 0,
+		"dutyID": 18,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "Clean tables and throw out trash in dining room",
+		"floorNumber": 0,
+		"dutyID": 19,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "East stairs",
+		"floorNumber": 0,
+		"dutyID": 20,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "West stairs",
+		"floorNumber": 0,
+		"dutyID": 21,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "1st floor bathroom",
+		"floorNumber": 0,
+		"dutyID": 22,
+		"lodgersRequired": 1,
+		"isKitchen": 0
+	},
+	{	
+		"description": "Basement (don’t forget the bathroom)",
+		"floorNumber": 0,
+		"dutyID": 23,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "Pick Up Trash Outside/Take out Trash Can",
+		"floorNumber": 0,
+		"dutyID": 24,
+		"lodgersRequired": 1,
+		"isKitchen": 0 
+	},
+	{	
+		"description": "Throw out trash and food, clean sink in kitchen (all week)",
+		"floorNumber": 0,
+		"dutyID": 25,
+		"lodgersRequired": 1,
+		"isKitchen": 1
+	},
+	{	
+		"description": "Sweep and clean counters in kitchen",
+		"floorNumber": 0,
+		"dutyID": 26,
+		"lodgersRequired": 1,
+		"isKitchen": 1
+	},
+	{	
+		"description": "Mop kitchen",
+		"floorNumber": 0,
+		"dutyID": 27,
+		"lodgersRequired": 1,
+		"isKitchen": 1 
+	}
+]

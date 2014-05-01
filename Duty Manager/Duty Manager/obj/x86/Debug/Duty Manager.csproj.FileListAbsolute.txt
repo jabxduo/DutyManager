@@ -1,0 +1,15 @@
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty_Manager.Properties.Resources.resources
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.csproj.GenerateResource.Cache
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.exe
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.pdb
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\obj\x86\Debug\Duty Manager.csprojResolveAssemblyReference.cache
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\Duty Manager.exe
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\Duty Manager.pdb
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\Newtonsoft.Json.dll
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\Newtonsoft.Json.pdb
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\Newtonsoft.Json.xml
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Duty Manager.exe
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Duty Manager.pdb
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DannyB\Documents\Visual Studio 2010\Projects\Duty Manager\DutyManager\Duty Manager\Duty Manager\bin\Debug\Newtonsoft.Json.xml
